@@ -1,0 +1,6 @@
+Rust is a systems programming language.
+It focuses on safety and performance.
+Rust prevents many classes of bugs.
+This line does not contain the keyword.
+Learning Rust is fun.
+Memory safety without garbage collection.
