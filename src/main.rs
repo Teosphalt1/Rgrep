@@ -16,7 +16,7 @@ fn main() {
                     println!("No matches found.");
                 } else {
                     for line in lines {
-                        println!("{}", line);
+                        println!("{} | Has been found line {}", line.line_text, line.line_number);
                     }
                 }
             },
